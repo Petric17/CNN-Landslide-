@@ -1,0 +1,13 @@
+# Core Data Science
+numpy
+pandas
+
+# Geospatial Vector & Mapping
+geopandas
+osmnx
+leafmap
+contextily
+
+# Raster & Terrain Processing
+rasterio
+whitebox  
